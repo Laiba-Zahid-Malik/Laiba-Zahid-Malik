@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Laiba-Zahid
-- 🌱 I’m currently learning Scratch block coding...
-- 😄 Pronouns: She/Her
+- 📚 Student of XI Science Group
+- 🌱 I’m currently learning Excel and MS Word...
+- 😄 Pronouns: She / Her 
 
 <!---
 Laiba-Zahid-Malik/Laiba-Zahid-Malik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
